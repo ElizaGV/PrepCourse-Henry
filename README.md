@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del M2 del curso de Henry
+Este proyecto es como crear un repositorio y guardarlo desde Gitub
